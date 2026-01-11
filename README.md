@@ -13,7 +13,7 @@ Ma’lumotlar **MongoDB** bazasida saqlanadi va barcha so‘rovlar **Postman** o
 ### ⚙️ Ishga tushirish
 
 ```bash
-npm install
+npm i
 npm run dev
 ```
 
