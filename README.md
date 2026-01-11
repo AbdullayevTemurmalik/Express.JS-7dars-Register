@@ -14,7 +14,7 @@ Ma’lumotlar **MongoDB** bazasida saqlanadi va barcha so‘rovlar **Postman** o
 
 ```bash
 npm install
-npm run dev
+npm run de
 ```
 
 ### 🔗 API test
