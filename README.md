@@ -5,7 +5,6 @@ Ma’lumotlar **MongoDB** bazasida saqlanadi va barcha so‘rovlar **Postman** o
 
 ### 🧩 Texnologiyalar
 
-
 * Node.js
 * Express.js
 * MongoDB (Mongoose)
