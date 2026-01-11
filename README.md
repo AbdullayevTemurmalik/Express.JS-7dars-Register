@@ -10,6 +10,8 @@ Ma’lumotlar **MongoDB** bazasida saqlanadi va barcha so‘rovlar **Postman** o
 * MongoDB (Mongoose)
 * Postman
 
+
+
 ### ⚙️ Ishga tushirish
 
 ```bash
