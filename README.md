@@ -22,3 +22,4 @@ npm run dev
 Barcha endpointlar **Postman** orqali tekshirilgan.
 
 📌 Loyiha backend asoslarini o‘rganish va amaliyot uchun mos.
+
