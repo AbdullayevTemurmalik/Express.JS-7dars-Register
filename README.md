@@ -9,8 +9,7 @@ Ma’lumotlar **MongoDB** bazasida saqlanadi va barcha so‘rovlar **Postman** o
 * Express.js
 * MongoDB (Mongoose)
 * Postman
-* 
-
+  
 ### ⚙️ Ishga tushirish
 
 ```bash
